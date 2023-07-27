@@ -49,6 +49,7 @@ Here are some samples of the qualitative results of the model.
 
 ## Credit
 
+- [Quantum Machines 9 Dataset](http://quantum-machine.org/datasets/)
 - [Drug Molecule Generation with VAE](https://keras.io/examples/generative/molecule_generation/)
 - [WGAN-GP with R-GCN for the generation of small molecular graphs](https://keras.io/examples/generative/wgan-graphs/)
 - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
