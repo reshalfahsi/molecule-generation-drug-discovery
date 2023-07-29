@@ -1,8 +1,8 @@
-# Small Molecular Generation for Drug Discovery
+# Small Molecular Graph Generation for Drug Discovery
 
 
  <div align="center">
-    <a href="https://colab.research.google.com/github/reshalfahsi/molecular-generation-drug-discovery/blob/master/Small_Molecular_Graph_Generation_for_Drug_Discovery.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+    <a href="https://colab.research.google.com/github/reshalfahsi/molecule-generation-drug-discovery/blob/master/Small_Molecular_Graph_Generation_for_Drug_Discovery.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
     <br />
  </div>
 
@@ -13,7 +13,7 @@ With the advent of deep learning, [drug development](https://en.wikipedia.org/wi
 ## Experiment
 
 
-All of the experiments are summed up in this [notebook](https://github.com/reshalfahsi/molecular-generation-drug-discovery/blob/master/Small_Molecular_Graph_Generation_for_Drug_Discovery.ipynb).
+All of the experiments are summed up in this [notebook](https://github.com/reshalfahsi/molecule-generation-drug-discovery/blob/master/Small_Molecular_Graph_Generation_for_Drug_Discovery.ipynb).
 
 
 ## Result
@@ -37,14 +37,14 @@ Diversity | 0.567 |
 
 ## Loss Curve
 
-<p align="center"> <img src="https://github.com/reshalfahsi/molecular-generation-drug-discovery/blob/master/assets/loss_curve.png" alt="loss_curve" > <br /> GAN's generator and discriminator loss curve in the training process. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/molecule-generation-drug-discovery/blob/master/assets/loss_curve.png" alt="loss_curve" > <br /> GAN's generator and discriminator loss curve in the training process. </p>
 
 
 ## Qualitative Result
 
 Here are some samples of the qualitative results of the model.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/molecular-generation-drug-discovery/blob/master/assets/qualitative_result.png" alt="qualitative_result" > <br /> The qualitative results of the generated molecules. The chemical structure, the SMILES representation, and the QED scores are provided. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/molecule-generation-drug-discovery/blob/master/assets/qualitative_result.png" alt="qualitative_result" > <br /> The qualitative results of the generated molecules. The chemical structure, the SMILES representation, and the QED scores are provided. </p>
 
 
 ## Credit
